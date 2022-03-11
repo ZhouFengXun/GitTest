@@ -4,7 +4,7 @@ package com.example.demo.utils;
  *
  * @author lenovo
  
- * 二分查找   数组必须要从小到大
+ * 二分查找   数组必须要从小到大,数组排序
  */
 public class searchArrayIndex {
      static int[] array = {1, 2, 3, 4, 6, 7, 9};
