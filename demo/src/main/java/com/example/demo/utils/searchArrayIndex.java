@@ -7,7 +7,8 @@ package com.example.demo.utils;
  * 二分查找   数组必须要从小到大,数组排序，排序
  */
 public class searchArrayIndex {
-     static int[] array = {1, 2, 3, 4, 6, 7, 9};
+    //数组
+    static int[] array = {1, 2, 3, 4, 6, 7, 9};
 
     static int find(int searchKey) {
         //最小索引
