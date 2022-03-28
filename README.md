@@ -27,6 +27,12 @@ git clone <远程库地址>：克隆远程库
 详细步骤 ：[点击参考](https://blog.csdn.net/weixin_45627031/article/details/107290267)  
 
  
+# IDEA 操作
+
+[远程代码回退](https://blog.csdn.net/weixin_45627031/article/details/123796115?spm=1001.2014.3001.5501)
+
+
+
 # 知识扩展：
 
 ##### 1.日志
