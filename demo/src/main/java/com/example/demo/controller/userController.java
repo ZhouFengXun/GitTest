@@ -15,8 +15,6 @@ public class userController {
 
     @GetMapping("/git")
     public void print(){
-        System.out.println("HELLO WORD");
-        System.out.println("HELLO WORD");
-        System.out.println("HELLO WORD");
+        System.out.println("这是合并并?");
     }
 }
