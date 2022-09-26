@@ -30,7 +30,7 @@ git clone <远程库地址>：克隆远程库
 # IDEA 操作
 
 [远程代码回退](https://blog.csdn.net/weixin_45627031/article/details/123796115?spm=1001.2014.3001.5501)
-
+[IDEA中Git暂存代码的使用](https://blog.csdn.net/weixin_45627031/article/details/124339745?spm=1001.2014.3001.5501)
 
 
 # 知识扩展：
