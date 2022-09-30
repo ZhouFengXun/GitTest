@@ -10,6 +10,9 @@ public class userController {
     @PostMapping
     public void show(){
         System.out.println("展示");
+        System.out.println("展示");
+        System.out.println("展示");
     }
+
 
 }
